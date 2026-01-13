@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+requests
+pymongo
+pydantic
+jinja2
+a2wsgi
+langchain
+langchain-community
+langchain-experimental
+tabulate
